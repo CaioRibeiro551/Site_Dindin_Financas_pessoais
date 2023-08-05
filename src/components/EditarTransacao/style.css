@@ -1,0 +1,85 @@
+.editRegistro {
+    width: 611px;
+    height: 879px;
+    border-radius: 20px;
+    background: #fff;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-left: 415px;
+    margin-top: 80px;
+}
+
+.closeModal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 43px;
+    width: 482px;
+    margin-top: 61px;
+}
+
+.closeModal img {
+    width: 27px;
+    height: 27px;
+    cursor: pointer;
+}
+
+.buttons {
+    width: 488px;
+    height: 106px;
+}
+
+.buttons button {
+    width: 244px;
+    height: 56px;
+}
+
+.registroInputs {
+    display: flex;
+    flex-direction: column;
+}
+
+.registroInputs input {
+    padding: 0;
+    border-radius: 5px;
+    border: 1px solid #555;
+    background: #FFF;
+
+    width: 485px;
+    height: 64px;
+
+    padding-left: 24px;
+}
+
+.registroInputs select {
+    border-radius: 5px;
+    border: 1px solid #555;
+    background: #FFF;
+
+    padding-left: 24px;
+
+    width: 512px;
+    height: 66px;
+    cursor: pointer;
+}
+
+
+.registroInputs label {
+    margin-top: 25px;
+    margin-bottom: 9px;
+    color: #484848;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.confirmTransation {
+    width: 236px;
+    height: 42px;
+
+    margin-top: 43px;
+}

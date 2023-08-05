@@ -1,0 +1,30 @@
+.tabelaTransacoes {
+    position: absolute;
+    z-index: 1;
+    width: 964px;
+
+    border-collapse: collapse;
+
+    margin: 229px 34px 0px 106px;
+
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.tabelaTransacoes img {
+    cursor: pointer;
+}
+
+.cabecalhoTabela {
+    height: 60px;
+    border-radius: 10px;
+    background: #FAFAFA;
+    box-shadow: 0px 2px 11px 0px rgba(0, 0, 0, 0.10);
+}
+
+.corpoTabela {
+    height: 60px;
+    border-bottom: 1px solid #E0E0E0;
+}

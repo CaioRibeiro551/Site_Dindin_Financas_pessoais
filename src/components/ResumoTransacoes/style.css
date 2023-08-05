@@ -1,0 +1,47 @@
+.containerResumo {
+    width: 236px;
+    height: 254px;
+
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    z-index: 1;
+
+    margin: 229px 100px 543px 1104px;
+}
+
+.resumo {
+    width: 236px;
+    height: 196px;
+
+    border-radius: 10px;
+    background: #FAFAFA;
+    box-shadow: rgba(0, 0, 0, 0.10);
+
+    display: flex;
+    flex-direction: column;
+
+    margin-bottom: 16px;
+}
+
+.resumo p {
+    display: flex;
+    justify-content: space-between;
+
+    margin-right: 33px;
+    margin-left: 33px;
+
+    color: #2F2F2F;
+}
+
+.lineResumo {
+    width: 189px;
+    height: 1px;
+    margin-left: 24px;
+    background-color: #EAEAEA;
+}
+
+.addRegistro {
+    width: 236px;
+    height: 42px;
+}

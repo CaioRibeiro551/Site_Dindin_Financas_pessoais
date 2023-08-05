@@ -1,0 +1,125 @@
+.singinContainer {
+    height: 1024px;
+    width: 1440px;
+    background: url("../../../public/assets/background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: end;
+    margin: 0;
+}
+
+.singinTextContainer {
+    font-family: 'Rubik', sans-serif;
+    flex-direction: column;
+    width: 614px;
+    height: 347px;
+    font-weight: 700;
+    margin: 327px 91px 0px 0px;
+
+
+}
+
+.singinTextContainer h1 {
+    margin: 0;
+    color: white;
+    font-size: 52px;
+    width: 100%;
+    text-align: left;
+}
+
+.singinTextContainer h1 span {
+    color: #7978D9;
+}
+
+.singinTextContainer p {
+    font-size: 28px;
+    font-weight: 400;
+    margin-top: 33px;
+    margin-bottom: 43px;
+    text-align: left;
+    color: white;
+}
+
+.singinTextContainer button {
+    all: unset;
+    width: 284px;
+    height: 48px;
+    margin-right: 366px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.singinContainer button {
+    background-color: #7978D9;
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.navForm {
+    background-color: white;
+    height: 535px;
+    width: 513px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 194px 122px 265px 0px;
+
+}
+
+.navForm h1 {
+    color: #7978D9;
+    align-self: center;
+    margin-top: 60px;
+}
+
+.navForm label {
+    color: #484848;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 32px;
+    margin-top: 31px;
+}
+
+.navForm input {
+    all: unset;
+    width: 441px;
+    height: 63px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #555;
+    margin-left: 32px;
+
+    padding-left: 8px;
+}
+
+.navForm button {
+    all: unset;
+    text-align: center;
+    width: 449px;
+    height: 53px;
+    color: white;
+    background-color: #7978D9;
+    border-radius: 5px;
+    font-family: 'Rubik', sans-serif;
+    margin-top: 73px;
+    margin-bottom: 53px;
+    margin-left: 32px;
+    cursor: pointer;
+
+}
+
+.loginLogo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 45px;
+    width: 169px;
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+    text-align: center;
+
+}

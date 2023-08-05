@@ -1,0 +1,66 @@
+.modalUsuario {
+    width: 611px;
+    height: 770px;
+    border-radius: 20px;
+    background: #fff;
+
+    margin-left: 415px;
+    margin-top: 127px;
+}
+
+.closeModal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 43px;
+    width: 482px;
+    margin-top: 56px;
+}
+
+.closeModal h1 {
+    margin-bottom: 30px;
+}
+
+.closeModal img {
+    width: 27px;
+    height: 27px;
+    cursor: pointer;
+}
+
+.editInputs {
+    width: 611px;
+    height: 770px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.editInputs input {
+    width: 485px;
+    height: 64px;
+    border-radius: 5px;
+    border: 1px solid #555;
+    background: #FFF;
+
+    padding-left: 24px;
+}
+
+.editInputs label {
+    height: 32px;
+    font-weight: 500;
+    font-size: 24px;
+    color: #484848;
+    margin-right: 237px;
+    width: 272px;
+    margin-top: 26px;
+    margin-bottom: 6px;
+}
+
+.editInputs button {
+    width: 236px;
+    height: 42px;
+    margin-top: 45px;
+}
