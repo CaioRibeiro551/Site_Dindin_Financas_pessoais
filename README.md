@@ -22,14 +22,15 @@ Este projeto é uma aplicação web desenvolvida em React com o objetivo de prop
 
 ## Tecnologias Utilizadas:
 
-React
-HTML
-CSS
-JavaScript
-API para interação com backend
-Instalação:
+-React
+-HTML
+-CSS
+-JavaScript
+-API para interação com backend
 
-## Para testar o projeto em sua máquina local, siga as etapas abaixo:
+##Instalação:
+
+# Para testar o projeto em sua máquina local, siga as etapas abaixo:
 
 Clone o repositório para o seu computador.
 Certifique-se de ter o Node.js instalado em sua máquina.
