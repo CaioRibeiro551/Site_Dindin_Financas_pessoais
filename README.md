@@ -23,12 +23,16 @@ Este projeto é uma aplicação web desenvolvida em React com o objetivo de prop
 ## Tecnologias Utilizadas:
 
 -React
+
 -HTML
+
 -CSS
+
 -JavaScript
+
 -API para interação com backend
 
-##Instalação:
+
 
 # Para testar o projeto em sua máquina local, siga as etapas abaixo:
 
