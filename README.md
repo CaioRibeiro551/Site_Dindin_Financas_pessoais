@@ -4,7 +4,7 @@ Este projeto é uma aplicação web desenvolvida em React com o objetivo de prop
 
 ## Funcionalidades:
 
--📝 Cadastro do usuário: Os usuários podem se cadastrar na plataforma preenchendo um formulário de sign-up, garantindo a integridade dos dados e validando as senhas.
+* 📝 Cadastro do usuário: Os usuários podem se cadastrar na plataforma preenchendo um formulário de sign-up, garantindo a integridade dos dados e validando as senhas.
 
 -🔐 Login de usuário: Após o cadastro, os usuários podem realizar o login de forma segura e obter acesso à área logada.
 
